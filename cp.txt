@@ -1,0 +1,14 @@
+Microsoft Windows [Version 10.0.18363.1556]
+(c) 2019 Microsoft Corporation. All rights reserved.
+
+C:\WINDOWS\system32>cd/
+
+C:\>cd/program files/java/jdk-17.0.2/bin
+
+C:\Program Files\Java\jdk-17.0.2\bin>javac HelloWorld.java
+
+C:\Program Files\Java\jdk-17.0.2\bin>java HelloWorld
+Hello World!
+
+C:\Program Files\Java\jdk-17.0.2\bin>
+
